@@ -2,12 +2,12 @@
 clickhouse:
   hosts:
     centos7-1:
-      ansible_host: 158.160.109.207
+      ansible_host: 5.101.50.233
 vector:
   hosts:
     centos7-2:
-      ansible_host: 158.160.102.153
+      ansible_host: 5.101.50.234
 lighthouse:
   hosts:
     centos7-3:
-      ansible_host: 158.160.113.245
+      ansible_host: 5.101.50.235
