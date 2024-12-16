@@ -20,11 +20,9 @@
 
 5. Перенес шаблоны конфигов в `templates` роли.
 
-6. Сделал описание для созданных ролей в файлах `README.md`.
+6. Повторил все шаги для роли `lighthouse-role`.
 
-7. Повторил все шаги для роли `lighthouse-role`.
-
-8. Выложил роли в репозитории. Ссылки на репозитории ролей:
+7. Выложил роли в репозитории. Ссылки на репозитории ролей:
 
 https://github.com/garrkiss/vector-role
 
@@ -32,6 +30,5 @@ https://github.com/garrkiss/lighthouse-role
 
 9. Изменил playbook на использование roles.
 
-10. Выложил playbook в репозиторий. Ссылка на playbook: 
+10. Выложил playbook в репозиторий. Ссылка на playbook: https://github.com/garrkiss/ansible-04/tree/master/playbook
 
----
